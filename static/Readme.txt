@@ -16,3 +16,6 @@ h) Answer Forensic1 (on your desktop)
 Unscored
 a) Remove 'saxophone' from 'string' group
 b) Remove the group 'conductor'
+c) Change the password of user 'violin' to 'Cla55icalMusicRoX'
+d) Change the password of user 'clarinet' to 'PracticePracticePractice'
+
