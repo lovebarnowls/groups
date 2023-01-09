@@ -1,27 +1,18 @@
-You are the system administrator for the Names-with-Christian-Origins-League.  The previous administrator has been slacking off.
+This is a partially scored image, and is a way for you to practice working with usergroups.
 
-You will need to add authorized users, authorized administrators, as well as remove unauthorized users.
+You are the administrator of the 'instruments of the orchestra' company. There has been some issues with different user and user groups, so you will need to sort out the following tasks.
+Have fun!
 
-Authorized administrators:
+Scored
+a) Add user 'tuba' to sudo group
+b) Add user 'viola' to sudo group
+c) Add user 'timpani' to sudo group
+d) Remove user 'drumkit' from sudo group
+e) Create group 'percussion' and add users 'snaredrum', 'bassdrum', and 'timpani' to group
+f) Add users 'violin' and 'cello' to 'string' group
+g) Add users 'clarinet' and 'flute' to 'woodwind' group
+h) Answer Forensic1 (on your desktop)
 
-	ubuntu
-	luke
-	joy
-	grace
-
-Authorized users:
-
-	jordan
-	marcus
-	timothy
-	angel
-	simon
-	judah
-	theresa
-	phoebe
-	peter
-	john
-	james
-
-
-There is no forensic question for this practice image. Happy adding/removing users.
+Unscored
+a) Remove 'saxophone' from 'string' group
+b) Remove the group 'conductor'
