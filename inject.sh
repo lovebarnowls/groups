@@ -22,6 +22,7 @@ sudo groupadd string
 sudo groupadd woodwind
 sudo groupadd percussion
 sudo groupadd brass
+sudo groupadd conductor
 sudo usermod -aG woodwind bassoon
 sudo usermod -aG woodwind oboe
 sudo usermod -aG brass trumpet
