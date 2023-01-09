@@ -1,2 +1,6 @@
-This is a practice image for adding, removing, and modifying users.
-There is no forensics question for this image.
+trumpet, tuba, and trombone are members of 'brass' group. Who is the fourth member?
+
+ANSWER: <Type answer here>
+
+
+Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" inp lace of the space.  Do not include the carets (< >) in your answer.
