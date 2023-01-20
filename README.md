@@ -7,11 +7,11 @@ if got clone doesn't work, require apt install.
 sudo -i
 apt-get update
 apt install git
-git clone https://github.com/lovebarnowls/nanoadduser.git
+git clone https://github.com/lovebarnowls/groups.git
 continue with below instructions
 
 
-cd nanoadduser
+cd groups
 
 sudo chmod a+x *.sh
 
