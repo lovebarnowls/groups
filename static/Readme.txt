@@ -1,3 +1,8 @@
+Note: Users on AWS may need to run the following code if they don't have permissions to write files etc:
+sudo -i
+
+
+
 This is a partially scored image, and is a way for you to practice working with usergroups and changing passwords.
 
 You are the administrator of the 'instruments of the orchestra' company. There has been some issues with different user and user groups, so you will need to sort out the following tasks.
