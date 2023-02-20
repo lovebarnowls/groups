@@ -31,6 +31,9 @@ sudo usermod -aG brass tuba
 sudo usermod -aG brass french_horn
 sudo usermod -aG string viola
 sudo usermod -aG string saxophone
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
+sudo apt install gedit -y -qq
+sudo echo -e "ubuntu\nubuntu" | passwd ubuntu
 
 
 
