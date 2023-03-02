@@ -24,3 +24,9 @@ b) Remove the group 'conductor'
 c) Change the password of user 'violin' to 'Cla55icalMusicRoX'
 d) Change the password of user 'clarinet' to 'PracticePracticePractice'
 
+For discussion:
+a) What are the advantages of using groups?
+b) What are some of the inherent risks of using groups?
+IMPORTANT - you can set groups to own files, and not just individuals. This allows all users in the listed group to gain access to the file.
+c) What are some potential cybersecurity implications of the above fact in terms of what we are doing?
+d) Imagine you joined a non-tech field as a startup founder, working out a garage with a friend, possibly a medical company, and the CEO (Medical Doctor) wants root privileges to a fledging business network. Under what circumstances would you say yes? or no? Why?
