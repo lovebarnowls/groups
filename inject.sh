@@ -20,7 +20,6 @@ sudo usermod -aG sudo oboe
 sudo usermod -aG sudo drumkit
 sudo groupadd string
 sudo groupadd woodwind
-sudo groupadd percussion
 sudo groupadd brass
 sudo groupadd conductor
 sudo usermod -aG woodwind bassoon
