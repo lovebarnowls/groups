@@ -56,7 +56,7 @@ description = Users that are prohibited from being Administrators
 msg = User %PARAMETER% is no longer an administrator
 
 [06-CharlieDeeWebDev:Add_to_group]
-enabled = no
+enabled = yes
 tag = User Management
 pointValue = 2
 parameters = violin:string cello:string snaredrum:percussion bassdrum:percussion timpani:percussion clarinet:woodwind flute:woodwind
@@ -64,12 +64,12 @@ description = Users that are required to be in a group
 msg = User %PARAMETER% is now in group
 
 [6A-WebdevGroupCreated:File_now_contains]
-enabled = no
+enabled = yes
 tag = Local Policy
 pointValue = 3
-parameters = /etc/group:banana
+parameters = /etc/group:percussion
 description = Text you would like added to file
-msg = Group banana has been created
+msg = Group %PARAMETER% has been created
 
 [07-DisableGuestEtc:Secure_lightdm]
 enabled = no
