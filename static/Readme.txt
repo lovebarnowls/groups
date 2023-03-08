@@ -21,8 +21,10 @@ h) Answer Forensic1 (on your desktop)
 Unscored - see if you know how to check if your answer is correct!
 a) Remove 'saxophone' from 'string' group
 b) Remove the group 'conductor'
-c) Change the password of user 'violin' to 'Cla55icalMusicRoX'
+c) Change the password of user 'violin' to 'Cla55icalMusicR0X'
 d) Change the password of user 'clarinet' to 'PracticePracticePractice'
+e) Try writing a script that allows you to create a user, and confirms when the user has been successfully created. Test it out on your image.
+f) Do the same as the above for creating a group, and test it out on your image.
 
 For discussion:
 a) What are the advantages of using groups?
