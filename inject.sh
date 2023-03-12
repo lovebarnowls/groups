@@ -31,6 +31,9 @@ sudo usermod -aG brass tuba
 sudo usermod -aG brass french_horn
 sudo usermod -aG string viola
 sudo usermod -aG string saxophone
+sudo mkdir -p /home/cannon/desktop/
+sudo echo 'boom' > /home/cannon/desktop/1812overture.mp3 
+sudo chown :1001 /home/cannon/desktop/1812overture.mp3 
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
 sudo apt-get install gedit -y -qq
 sudo echo -e "ubuntu\nubuntu" | passwd ubuntu
