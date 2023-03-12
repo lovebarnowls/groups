@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo useradd cannon
 sudo useradd violin
 sudo useradd viola
 sudo useradd cello
@@ -31,7 +32,7 @@ sudo usermod -aG brass french_horn
 sudo usermod -aG string viola
 sudo usermod -aG string saxophone
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
-sudo apt install gedit -y -qq
+sudo apt-get install gedit -y -qq
 sudo echo -e "ubuntu\nubuntu" | passwd ubuntu
 
 
